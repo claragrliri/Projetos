@@ -5,6 +5,6 @@ consumoMensal = (potencia * horasDia * 30) / 1000
 custoEstimado = (consumoMensal * 0.75)
  
 print("-" * 50)
-print(f"Oconsumo mensal do (a) {aparelho} é de: {consumoMensal:.2f} kWh")
+print(f"O consumo mensal do(a) {aparelho} é de: {consumoMensal:.2f} kWh")
 print(f"O custo estimado mensal é de: R$ {custoEstimado:.2f}")
 print("-" * 50)
