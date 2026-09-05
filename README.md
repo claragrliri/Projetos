@@ -5,6 +5,7 @@ este é um programa simples desenvolvido em **Python** para calcular o consumo e
 Os cálculos foram feitos utilizando as seguintes fórmulas matemáticas:
 
 ``` text consumoMensal = (poterncia * horasDia * 30) / 1000 ```
+
 ``` custoEstimado = (consumoMensal * 0.75) ```
 
 ##
