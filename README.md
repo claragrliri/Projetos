@@ -1,5 +1,5 @@
 ## Calculadora de Consumo de Energia 📊​
-este é um programa simples desenvolvido em **Python** para calcular o consumo e custo médio de energia de algum aparelho eletrodoméstico em kWh.
+Este é um programa simples desenvolvido em **Python** para calcular o consumo e custo médio de energia de algum aparelho eletrodoméstico em kWh.
 
 ## As Tecnologias Ultilizadas ​​⚙️​
 
